@@ -1,0 +1,28 @@
+body{
+	margin:0;
+	padding:0;
+}
+
+#box1{
+	height:38em;
+	width:38em;
+	background:#e5bb96;
+	position:relative;
+	margin:0 auto;
+    border-radius: 5%;
+	
+}
+#box2{
+	height:25em;
+	width:25em;
+	position:absolute;
+	top:6em;
+	left:6em;
+	background:#dc985b;
+	border-radius:1em 3.5em 2em .5em;
+}
+#box2 p{
+	text-align:justify;
+	margin:1em 1em 1em 1em;
+	color:#786350;
+}
